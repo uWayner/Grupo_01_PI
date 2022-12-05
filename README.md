@@ -1,10 +1,10 @@
                                               (GRUPO 1)
 
-<h1>Membros do grupo </h1>
+<h1>Projeto Deep Thinker</h1>
 <hr>
 <h2>Projeto Integrador Fatec - Faculdade de Técnologia de Araras - SP</h2>
 <hr>
-<h3>Projeto</h3>
+<h3>Membros do grupo</h3>
 
 - Carlos Degasperi <BR>
 ![image](https://user-images.githubusercontent.com/45121771/205767040-bc4ea54a-1d07-4928-bf71-11b1d96766b3.png)<br>
