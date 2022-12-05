@@ -1,12 +1,12 @@
                                               (GRUPO 1)
 
-<h1>Projeto Deep Thinker</h1>
+<h1> 🐙Projeto Deep Thinker🐙 </h1>
 <hr>
-<h2>Projeto Integrador Fatec - Faculdade de Técnologia de Araras - SP</h2>
+<h2>📚Projeto Integrador Fatec - Faculdade de Técnologia de Araras - SP📚 </h2>
 <hr>
-<h3>Membros do grupo</h3>
+<h3>👨‍🎓Membros do grupo</h3>
 
-- Carlos Degasperi <BR>
+- Carlos Degasperi <br>
 ![image](https://user-images.githubusercontent.com/45121771/205767040-bc4ea54a-1d07-4928-bf71-11b1d96766b3.png)<br>
 - Fernando Augusto Saldanha <br>
 ![image](https://user-images.githubusercontent.com/45121771/205764070-195c10f4-3c1a-46bc-aeb7-1ccb2124d297.png) <br>
