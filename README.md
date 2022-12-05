@@ -12,7 +12,9 @@
 - Vinicius Nigra
 
 
-- Fernando Augusto Saldanha                                                                                             - Matheus da Costa Rodrigues
-![image](https://user-images.githubusercontent.com/45121771/205763922-ef2f6e6d-815d-4ef4-a678-3e419cd17512.png)                   ![image](https://user-images.githubusercontent.com/45121771/205763988-fe935da7-81a6-41de-b635-a5302ae73b36.png)
+- Fernando Augusto Saldanha
 
+![image](https://user-images.githubusercontent.com/45121771/205764070-195c10f4-3c1a-46bc-aeb7-1ccb2124d297.png)
 
+- Matheus da Costa Rodrigues
+![image](https://user-images.githubusercontent.com/45121771/205764135-b1e655f6-12ae-493f-8d41-d6dac8d9f819.png)
