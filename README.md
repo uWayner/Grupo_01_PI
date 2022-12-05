@@ -3,6 +3,7 @@
 <h1>Membros do grupo </h1>
 
 <h2>Projeto Integrador Fatec - Faculdade de Técnologia de Araras - SP</h2>
+<hr>
 
 
 - Carlos Degasperi <BR>
