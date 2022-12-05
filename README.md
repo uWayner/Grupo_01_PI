@@ -6,7 +6,7 @@
 <hr>
 <h3>Membros do grupo</h3>
 
-<div style ="display: flex">
+<div style=display:inline>
 - Carlos Degasperi <BR>
 ![image](https://user-images.githubusercontent.com/45121771/205767040-bc4ea54a-1d07-4928-bf71-11b1d96766b3.png)<br>
 - Fernando Augusto Saldanha <br>
