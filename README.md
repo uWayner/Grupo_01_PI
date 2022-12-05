@@ -5,6 +5,8 @@
 <h2>Projeto Integrador Fatec - Faculdade de Técnologia de Araras - SP</h2>
 
 
+- Carlos Degasperi <BR>
+![image](https://user-images.githubusercontent.com/45121771/205766614-241029ac-88e5-4937-9536-292c89d7eca8.png)<br>
 - Fernando Augusto Saldanha <br>
 ![image](https://user-images.githubusercontent.com/45121771/205764070-195c10f4-3c1a-46bc-aeb7-1ccb2124d297.png) <br>
 - Matheus da Costa Rodrigues <br>
