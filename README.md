@@ -8,9 +8,11 @@
 
 - João Wayner Silva Sousa
 - Lucas Theodoro
-- Matheus da Costa Rodrigues
+
 - Vinicius Nigra
 
 
-- Fernando Augusto Saldanha 
-- ![image](https://user-images.githubusercontent.com/45121771/205763851-912f31be-409d-4c45-8064-e7c40b16265a.png)
+- Fernando Augusto Saldanha                                                                                             - Matheus da Costa Rodrigues
+![image](https://user-images.githubusercontent.com/45121771/205763922-ef2f6e6d-815d-4ef4-a678-3e419cd17512.png)                   ![image](https://user-images.githubusercontent.com/45121771/205763988-fe935da7-81a6-41de-b635-a5302ae73b36.png)
+
+
