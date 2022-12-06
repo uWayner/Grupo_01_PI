@@ -18,7 +18,7 @@ Deep Thinker, visa dar notoriedade a grandes mentes perdidas em ambientes que a 
 <td>
  <br>
 <img src="https://user-images.githubusercontent.com/45121771/205771315-2b48ad7e-6e66-424e-8b4b-93bd15ba588f.png" width=150px height=150px> <br>
-<a href="https://github.com/wFernand0">Fernando Augusto Saldanha</a>
+<a href="https://github.com/wFernand0">Fernando Augusto Saldanha</a> <br>
 </td>
     <td>
  <br>
