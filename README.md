@@ -7,7 +7,6 @@
 Deep Thinker, visa dar notoriedade a grandes mentes perdidas em ambientes que a educação não é muito ‘fértil’, onde o indivíduo poderá assim expor suas ideias e projetos de uma forma acessível, para que então órgão e empresas interessadas possam explorar e apoiar, indivíduos valorosos. </p>
 <hr>
 <h3 align=center>👨‍🎓Membros do grupo</h3>
-<hr>
 
   <table align=center>
   <tr>
