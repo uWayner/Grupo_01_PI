@@ -9,7 +9,7 @@ Deep Thinker, visa dar notoriedade a grandes mentes perdidas em ambientes que a 
 <h3 align=center>👨‍🎓Membros do grupo</h3>
 <hr>
 
-  <table>
+  <table align=center>
   <tr>
     <td>
 <a href="http://github.com/CarlosDegasperi">Carlos Degasperi </a> <br>
